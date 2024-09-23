@@ -2,8 +2,6 @@
 
 ### MSCS (Data Science) | University of Southern California 🎓
 
-![Profile Views](https://komarev.com/ghpvc/?username=asthakinra&color=blueviolet)
-
 Hi there! I’m Astha Kinra, currently pursuing a Master of Science in Computer Science with a specialization in Data Science at the University of Southern California. 🎓 I am actively seeking opportunities in data science 📊, product management, and software development 💻, where I can leverage my passion for machine learning, data-driven insights, and problem-solving to create impactful solutions.
 
 What sets me apart is my ability to collaborate effectively within global cross-functional teams and apply a holistic approach to tackling complex challenges. Whether it's designing scalable algorithms, building user-friendly interfaces, or extracting actionable insights from data, I thrive on finding innovative ways to transform raw data into impactful business decisions. 🚀
@@ -112,6 +110,6 @@ Personal Website:
 ![](https://github-contributor-stats.vercel.app/api?username=astha200&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=astha200&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=asthakinra&color=blueviolet)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
