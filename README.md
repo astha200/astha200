@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Astha Kinra💫</h1>
-<h3 align="center">MSCS (Data Science) @ University of Southern California 🎓</h3>
+<h3 align="center">MS CS @ University of Southern California 🎓</h3>
 <img align = "right" alt = 'Coding' width = "400" src = "https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 
