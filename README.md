@@ -3,11 +3,11 @@
 <img align = "right" alt = 'Coding' width = "400" src = "https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 
-I am actively seeking opportunities in data science 📊, product management, and software development 💻, where I can leverage my passion for machine learning, data-driven insights, and problem-solving to create impactful solutions.
+I am actively seeking opportunities in software development 💻, AI/ ML, and data science 📊, where I can leverage my passion for machine learning, data-driven insights, and problem-solving to create impactful solutions.
 
 What sets me apart is my ability to collaborate effectively within global cross-functional teams and apply a holistic approach to tackling complex challenges. Whether it's designing scalable algorithms, building user-friendly interfaces, or extracting actionable insights from data, I thrive on finding innovative ways to transform raw data into impactful business decisions. 🚀
 
-During my internships at Amazon, American Express, and Expedia Group, I contributed to a range of high-impact projects—from streamlining package processing with a data dashboard to enhancing data quality through AI-driven solutions. My enthusiasm for building innovative, data-centric products keeps me on the cutting edge, and I’m excited about the transformative potential of AI and its ability to reshape industries.
+During my experience at Amazon, American Express, and Expedia Group, I contributed to a range of high-impact projects—from streamlining package processing with a data dashboard to enhancing data quality through AI-driven solutions. My enthusiasm for building innovative, data-centric products keeps me on the cutting edge, and I’m excited about the transformative potential of AI and its ability to reshape industries.
 
 🤝 Collaboration and continuous learning are central to my approach. I believe the best outcomes arise when diverse perspectives converge, and I am always eager to embrace new challenges that foster both personal and professional growth.<br><br>Let’s connect if you’re looking for a dedicated, results-driven professional passionate about leveraging technology to solve real-world challenges!
 
