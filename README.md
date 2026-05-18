@@ -114,6 +114,16 @@ During my experience at Amazon, American Express, and Expedia Group, I contribut
 
 👉 [Repo](https://github.com/astha200/Codebase-Risk-Monitoring)
 
+### InsightAgent
+- Multi-agent AI system for automated dataset analysis with RAG-grounded narrative insights and human-in-the-loop validation — built with LangGraph, Claude API, Chroma, and LangSmith
+- Three specialized agents (Analyst, Reporter, Validator) coordinated via LangGraph state graph with two strategic HITL checkpoints — schema confirmation before anomaly detection and per-insight review before the final report
+- Hybrid anomaly detection combining z-score, IsolationForest multivariate scan, and YAML-driven domain thresholds — severity blended from statistical magnitude and clinical/financial buckets
+- Two-collection Chroma vector store separating canonical domain knowledge (healthcare/finance glossaries) from user-supplied project context, with heading-based chunking and sentence-transformers embeddings to preserve retrieval precedence
+- LLM-as-Judge evaluation framework scoring 5 dimensions (retrieval quality, relevance, accuracy, correctness, groundedness) with full LangSmith tracing of every Claude call across the pipeline
+- Mixed-model routing — Opus for high-stakes reasoning, Sonnet for grounded enrichment, Haiku for high-volume captions — with prompt caching to reduce per-run cost
+- Streamlit UI with progress tracking, editable schema review, inline chart rendering, citation expandables, and accept/reject/edit workflow per insight
+👉 [Repo](https://github.com/astha200/InsightAgent2.0)
+
 ### Petstore
 - Full-stack multi-tenant pet marketplace with GraphQL API, Go backend, and React frontend
 - HTTP Basic auth with timing side-channel mitigation (dummy bcrypt for unknown usernames)
