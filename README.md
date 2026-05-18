@@ -104,13 +104,13 @@ During my experience at Amazon, American Express, and Expedia Group, I contribut
 ## 🔥 Featured Projects
 
 ### Codebase-Risk-Monitoring
--Agentic framework that scores and ranks git commits by risk using 6 parallel specialist LLM agents (security, blast radius, breaking changes, migrations, test coverage, complexity)
--Deterministic triage gate filters low-risk commits before invoking LLMs — reduces cost and latency by ~70%
--Confidence-weighted aggregation combines specialist scores with a judge agent that writes human-readable summaries for reviewers
--PydanticAI + Groq LLaMA for structured outputs with schema validation; prompt injection defense wraps diffs as data, not instructions
--SQLite cache keyed by (sha, prompt_version, model_version) — enables A/B model comparisons and avoids re-scoring unchanged commits
--Secret scrubbing strips API keys, passwords, and private keys from diffs before they reach the LLM
--CLI (scan / explain / list) + Streamlit dashboard with per-dimension drill-down and score distribution charts
+- Agentic framework that scores and ranks git commits by risk using 6 parallel specialist LLM agents (security, blast radius, breaking changes, migrations, test coverage, complexity)
+- Deterministic triage gate filters low-risk commits before invoking LLMs — reduces cost and latency by ~70%
+- Confidence-weighted aggregation combines specialist scores with a judge agent that writes human-readable summaries for reviewers
+- PydanticAI + Groq LLaMA for structured outputs with schema validation; prompt injection defense wraps diffs as data, not instructions
+- SQLite cache keyed by (sha, prompt_version, model_version) — enables A/B model comparisons and avoids re-scoring unchanged commits
+- Secret scrubbing strips API keys, passwords, and private keys from diffs before they reach the LLM
+- CLI (scan / explain / list) + Streamlit dashboard with per-dimension drill-down and score distribution charts
 
 👉 [Repo](https://github.com/astha200/Codebase-Risk-Monitoring)
 
