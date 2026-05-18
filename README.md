@@ -122,6 +122,7 @@ During my experience at Amazon, American Express, and Expedia Group, I contribut
 - LLM-as-Judge evaluation framework scoring 5 dimensions (retrieval quality, relevance, accuracy, correctness, groundedness) with full LangSmith tracing of every Claude call across the pipeline
 - Mixed-model routing — Opus for high-stakes reasoning, Sonnet for grounded enrichment, Haiku for high-volume captions — with prompt caching to reduce per-run cost
 - Streamlit UI with progress tracking, editable schema review, inline chart rendering, citation expandables, and accept/reject/edit workflow per insight
+
 👉 [Repo](https://github.com/astha200/InsightAgent2.0)
 
 ### Petstore
