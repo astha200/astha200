@@ -132,7 +132,7 @@ During my experience at Amazon, American Express, and Expedia Group, I contribut
 - Concurrent purchase handling with race-condition integration tests for checkout atomicity
 - Apollo Client with HTTP Basic auth header injection and typed GraphQL operations
 - UI with cart, instant purchase, toasts, skeleton loaders, confirm dialogs, and hover effects
-- PostgreSQL backend with Alembic migrations and seed data for pet inventory
+- PostgreSQL backend with raw SQL migrations and seed data for pet inventory
 
 👉 [Repo](https://github.com/astha200/Petstore)
 
