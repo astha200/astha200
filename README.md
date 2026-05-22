@@ -14,7 +14,7 @@ During my experience at Amazon, American Express, and Expedia Group, I contribut
 <!--Personal Website:-->
 <!--
 🌱 **Skills & Tools**:
-- **Languages**: Python, Java, C++, JavaScript
+- **Languages**: Python, Java, C++, JavaScript, Groovy
 - **Frameworks**: React.js, Spring Boot, GraphQL
 - **Cloud Technologies**: AWS (Lambda, DynamoDB, EC2), GCP, Azure
 - **Machine Learning**: Scikit-Learn, TensorFlow, PyTorch
