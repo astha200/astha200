@@ -30,7 +30,8 @@ During my experience at Amazon, American Express, and Expedia Group, I contribut
 ⚡ **Fun Fact**: I play the sitar 🎶
 
 🤝 **Let's Connect**:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/astha_kinra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/astha-kinra) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/astha-kinra) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/astha_kinra) 
 
 # 💻 Skills & Technologies:
 
