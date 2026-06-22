@@ -47,6 +47,9 @@ During my experience at Amazon, American Express, and Expedia Group, I contribut
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 
 ### Frameworks:
+![LangChain](https://img.shields.io/badge/LangChain-%2344A833.svg?style=for-the-badge&logo=LangChain&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/fastapi-%2320232a.svg?style=for-the-badge&logo=fastapi&logoColor=%2361DAFB) 
+![LangGraph](https://img.shields.io/badge/LangGraph-%2344A833.svg?style=for-the-badge&logo=langGraph&logoColor=white) 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) 
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
